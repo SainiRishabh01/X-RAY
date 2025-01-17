@@ -4,7 +4,7 @@
 
 This Streamlit app analyzes chest X-ray images to detect potential abnormalities using a pre-trained DenseNet121 model. It provides a user-friendly interface for uploading and processing images, and it visualizes predictions with Grad-CAM.
 
-Check out the live Streamlit App [here](https://chestxrayanalysis.streamlit.app).
+Check out the live Streamlit App [here]([https://x-rayghh.streamlit.app/]).
 
 ## Features
 
@@ -70,8 +70,4 @@ The model is based on DenseNet121 and is trained to identify 14 conditions:
 - Edema
 - Consolidation
 
-## License
 
-This project is licensed under the MIT License.
-
-Feel free to adjust the structure to fit your actual project layout!
