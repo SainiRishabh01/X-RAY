@@ -30,13 +30,13 @@ Check out the live Streamlit App [here]([https://x-rayghh.streamlit.app/]).
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/kimnguyen2002/Chest-X-Ray-Image-Analysis.git
+    git clone https://github.com/SainiRishabh01/X-RAY.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Chest-X-Ray-Image-Analysis
+    cd X-RAY
     ```
 
 3. Install the required packages:
